@@ -1,0 +1,8 @@
+{
+    "name": "full-4k-watch/game-of-thrones-season-8-episode-4-online-tv-hbo",
+    "description": "full Watch Game of Thrones Season 8 Episode 4 s08e04 Online For Free on HBO",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
